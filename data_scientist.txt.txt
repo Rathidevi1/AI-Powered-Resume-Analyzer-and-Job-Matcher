@@ -1,0 +1,11 @@
+We are looking for a Data Scientist who will help us discover the information hidden in vast amounts of data, and help us make smarter decisions.
+
+Responsibilities:
+- Use machine learning tools and statistical techniques
+- Data mining and cleaning
+- Build predictive models and algorithms
+
+Skills:
+- Proficiency in Python, R
+- Experience with ML libraries like Scikit-learn, TensorFlow
+- Strong problem-solving and communication skills
